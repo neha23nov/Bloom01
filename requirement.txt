@@ -1,0 +1,15 @@
+fastapi
+
+flask
+
+tensorflow
+
+numpy
+
+pillow
+
+requests
+
+flask-cors
+
+werkzeug
